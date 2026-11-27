@@ -1,0 +1,26 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(320px, 1fr)
+  );
+  gap: 24px;
+  margin-top: 20px;
+}
+
+.emptyState {
+  background: white;
+  padding: 50px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+.emptyState h2 {
+  color: #2563eb;
+  margin-bottom: 10px;
+}
+
+.emptyState p {
+  color: #64748b;
+}
