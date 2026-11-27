@@ -3,6 +3,7 @@
 A web-based Student Management System built using **HTML, CSS, and JavaScript** that allows users to manage student records efficiently.
 The application supports complete **CRUD operations (Create, Read, Update, Delete)** along with powerful **searching and filtering** functionality.
 
+[Watch Demo Video](https://github.com/chombelm10/student-management-system/assets/record.mp4)
 ## 🚀 Features
 
 ### ➕ Create Student Records
